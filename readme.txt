@@ -3,4 +3,4 @@ git是基于gpl的免费软件
 我觉得branch好难理解
 git has a mutable index called stage
 record changes has not execute
-it is quick to create a new branch
+it is quick & simple to create a new branch
